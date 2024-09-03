@@ -867,7 +867,7 @@ footer span a:hover{
 @media screen and (max-width: 767px) {
     .round {
         margin-top: -150px;
-        margin-bottom: -550px;
+        margin-bottom: -150px;
     }
     .banner .slider{
         width: 100px;
