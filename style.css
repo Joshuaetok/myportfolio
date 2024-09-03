@@ -851,9 +851,9 @@ footer span a:hover{
       
    .round {
         margin-top: -150px;
-        margin-bottom: -120px;
-        margin-left: 40px;
-        margin-right: 40px;
+        margin-bottom: -150px;
+        padding-left: 40px;
+        padding-right: 40px;
     }
     .banner .slider{
         width: 160px;
